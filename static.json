@@ -1,0 +1,15 @@
+{
+	"headers": {
+		"/*": {
+		"X-Author": "Victoriaivt2",
+		"Access-Control-Allow-Origin": "*"
+		},
+		"/result4/": {
+		"X-Author": "Victoriaivt2",
+		"Access-Control-Allow-Origin": "*",
+		"Access-Control-Allow-Methods": "GET,POST,PUT,DELETE,OPTIONS",
+		"Access-Control-Allow-Headers": "x-test,Content-Type,Accept,Access-Control-Allow-Headers",
+		"Content-Type": "application/json"
+		}
+	}
+}
